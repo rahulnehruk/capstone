@@ -1,2 +1,2 @@
-# capstone-
+# capstone
 capstone
